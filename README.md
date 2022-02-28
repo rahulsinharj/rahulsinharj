@@ -6,7 +6,7 @@
 - 📫 Reach me at https://www.linkedin.com/in/rahulsinha01/ 
 
 
-</a> <img src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47du1205kcpbi42kgi8foslsupivn6g8a4hmot33ae&rid=giphy.gif&ct=g" width="60">
+</a> <img src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47du1205kcpbi42kgi8foslsupivn6g8a4hmot33ae&rid=giphy.gif&ct=g" width="200">
 
 <!---
 rahulsinharj/rahulsinharj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
