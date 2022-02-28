@@ -14,5 +14,3 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-
-     </a> <img src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47du1205kcpbi42kgi8foslsupivn6g8a4hmot33ae&rid=giphy.gif&ct=g" width="300">
